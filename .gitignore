@@ -1,0 +1,4 @@
+﻿# 只发布这一个文件，其余一律不进仓库
+*.tmp
+Thumbs.db
+.DS_Store
