@@ -1,5 +1,5 @@
 /* 摘录 · 离线壳。版本号跟着每次构建变，旧缓存自动清掉 */
-const CACHE = "excerpt-cba80a8d8f";
+const CACHE = "excerpt-648f89f8eb";
 const ASSETS = [
   "./",
   "./index.html",
